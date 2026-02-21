@@ -12,9 +12,9 @@ Estou em busca da minha primeira oportunidade na área de desenvolvimento, com m
 
 ## 📊 Estatísticas
 
-![GitHub followers](https://img.shields.io/github/followers/SEUUSUARIO?style=for-the-badge)
-![GitHub Repo stars](https://img.shields.io/github/stars/SEUUSUARIO?style=for-the-badge)
-![GitHub repos](https://img.shields.io/badge/dynamic/json?label=Repos&query=public_repos&url=https://api.github.com/users/SEUUSUARIO&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/kobayashileo?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/kobayashileo?style=for-the-badge)
+![GitHub repos](https://img.shields.io/badge/dynamic/json?label=Repos&query=public_repos&url=https://api.github.com/users/kobayashileo&style=for-the-badge)
 
 ---
 
