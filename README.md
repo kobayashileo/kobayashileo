@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👨‍💻 Leonardo Kobayashi
 
-<!--
-**kobayashileo/kobayashileo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Dev em formação
 
-Here are some ideas to get you started:
+Prazer, me chamo Leonardo Kobayashi, tenho 18 anos.
+Sou formado pela Etec Prof. Carmine Biagio Tundisi no curso técnico em Análise e Desenvolvimento de Sistemas integrado ao Ensino Médio.
+Atualmente, curso Engenharia da Computação na USF de Bragança Paulista.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou em busca da minha primeira oportunidade na área de desenvolvimento, com maior interesse na área de dados, onde pretendo construir minha carreira e aprofundar meus conhecimentos.
+
+---
+
+## 📊 Estatísticas
+
+![GitHub followers](https://img.shields.io/github/followers/SEUUSUARIO?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/SEUUSUARIO?style=for-the-badge)
+![GitHub repos](https://img.shields.io/badge/dynamic/json?label=Repos&query=public_repos&url=https://api.github.com/users/SEUUSUARIO&style=for-the-badge)
+
+---
+
+## 🛠 Linguagens e Tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>ww
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
