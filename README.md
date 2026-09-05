@@ -10,14 +10,6 @@ Hoje, atuo como Dev. Júnior na implantação e integração de ERPs de clientes
 
 ---
 
-## 📊 Estatísticas
-
-![GitHub followers](https://img.shields.io/github/followers/kobayashileo?style=for-the-badge)
-![GitHub Repo stars](https://img.shields.io/github/stars/kobayashileo?style=for-the-badge)
-![GitHub repos](https://img.shields.io/badge/dynamic/json?label=Repos&query=public_repos&url=https://api.github.com/users/kobayashileo&style=for-the-badge)
-
----
-
 ## 🛠 Linguagens e Tecnologias
 
 <p align="left">
@@ -29,4 +21,5 @@ Hoje, atuo como Dev. Júnior na implantação e integração de ERPs de clientes
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/n8n/n8n-original.svg" width="40"/>
 </p>
